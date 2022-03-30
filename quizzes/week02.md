@@ -15,6 +15,8 @@ a block of code that can be called on
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
+S - single responsibility of a function
+
 
 ```
 **4.** Given this array: 
@@ -24,7 +26,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+2. apple is 0, banana is 1, and pineapple is 2
 ```
 **5.** With these two objects: 
 ```js
