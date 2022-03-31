@@ -4,11 +4,11 @@ My name is Jack Hagen. I am a student at [CodeWorks](https://boisecodeworks.com)
 
 ## Work
 
-  + [My Github](https://github.com/xCykax)
-  + [Portfolio](https://xCykax.github.io/)
+  + [My Github](https://github.com/JackHagen)
+  + [Portfolio](https://JackHagn.github.io/)
 
 ## Contact
 
-  + [Resume](https://xCykax.github.io/resume)
-  + Email: killernarwhal987@gmail.com
+  + [Resume](https://JackHagen.github.io/resume)
+  + Email: jackson.d.hagen@gmail.com
   

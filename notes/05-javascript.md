@@ -33,3 +33,12 @@ array.forEach(arr => {
      loop contents here
 }) 
 array.forEach iterates over each item in an array and executes code after
+
+
+let elem = document.getElementById('id')
+let selector = elem.querySelector('css-class')
+
+setInterval(function, ms) runs a function once every set milliseconds
+
+for in loop
+     for(let key in object)

@@ -49,6 +49,7 @@ how would you .push the `them` object into the `you` object's array of friends?
 for ( let i = 0; i < arr.length; _______ ) {
   //...
 ```
+i++;
 <!-- enter you answer in the space below -->
 ```
 
