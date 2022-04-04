@@ -42,3 +42,18 @@ setInterval(function, ms) runs a function once every set milliseconds
 
 for in loop
      for(let key in object)
+
+class Example {
+     constructor(name, position, team, imgURL) {
+          this.name = name
+          this.position = position
+          this.team = team`
+          this.imgURL = imgURL
+     }
+
+     get PlayerInfo() {
+          return 'info'
+     }
+}
+
+_ denotes a private function
