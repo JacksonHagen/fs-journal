@@ -32,6 +32,11 @@ originalArray.filter(arrayItem => arrayItem === condition) Returns a new array o
 array.forEach(arr => {
      loop contents here
 }) 
+
+array.forEach((arr, index) => {
+     <!-- index automatically increments with each iteration -->
+     arr == array[index]
+})
 array.forEach iterates over each item in an array and executes code after
 
 
@@ -57,3 +62,5 @@ class Example {
 }
 
 _ denotes a private function
+
+EXTENDS == class IS a (whatever comes after extends)
