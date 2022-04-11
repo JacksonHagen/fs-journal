@@ -64,3 +64,6 @@ class Example {
 _ denotes a private function
 
 EXTENDS == class IS a (whatever comes after extends)
+
+TERNARY
+     statement ? ifTrue : ifFalse
