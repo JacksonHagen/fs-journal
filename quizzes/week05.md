@@ -16,17 +16,18 @@ Delete - Delete
 **3.** What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 <!-- enter you answer in the space below -->
 ```
-
+Object Relational Mapping. Mongoose is used for MongoDB 
 ```
 **4.** Which two `HTTP` request types include a body?
 <!-- enter you answer in the space below -->
 ```
-
+Put and Post
 ```
 **5.** In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 <!-- enter you answer in the space below -->
 ```
-
+asynchronous
+synchronous
 ```
 
 **6.** Fill in the missing piece of this snippet of code.
