@@ -37,12 +37,12 @@ let Schema = ________.Schema;
 ```
 <!-- enter you answer in the space below -->
 ```
-
+mongoose
 ```
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
 ```
-
+Something like Auth0 that is like a 3rd party handler
 ```
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
