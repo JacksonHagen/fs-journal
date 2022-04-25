@@ -32,8 +32,8 @@ synchronous
 
 **6.** Fill in the missing piece of this snippet of code.
 ```js
-import ______ from "_______"
-let Schema = ________.Schema;
+import mongoose from "mongoose"
+let Schema = mongoose.Schema;
 ```
 <!-- enter you answer in the space below -->
 ```
@@ -47,11 +47,11 @@ Something like Auth0 that is like a 3rd party handler
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
 ```
-
+Client | Server
 ```
 **9.** 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
 ```
-
+http://localhost:3000/api?tag=winter
 ```
