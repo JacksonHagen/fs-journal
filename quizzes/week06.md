@@ -3,17 +3,17 @@
 **1.** What is the entrypoint of an application?
 <!-- enter you answer in the space below -->
 ```
-
+App.vue
 ```
 **2.** What is the difference between a vue `component` and `page`?
 <!-- enter you answer in the space below -->
 ```
-
+A component is a piece that goes on a page. A page is what components get rendered to
 ```
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
 ```
-
+v-for
 ```
 **4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->
